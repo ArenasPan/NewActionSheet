@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_background_color">#F7F7F7</color>
+    <color name="cancel_text_color">#D0E3EF</color>
+
+    <drawable name="btn_logout_normal">#EC4934</drawable>
+    <drawable name="btn_logout_hover">#fd5945</drawable>
+    <drawable name="btn_logout_disable">#1a000000</drawable>
+</resources>
